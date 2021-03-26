@@ -1,0 +1,74 @@
+body {
+    background-color: #d7ffa3;
+    margin:40px;
+    margin-right: 40px;
+}
+header {
+    background-color: #4f3c08;
+    text-align: center;
+    color: #55a82f;
+    font-size: 30px;
+    box-shadow: 0 0px 20px 6px green;
+    font-family: 'Chango', cursive;
+}
+.Shrexy{
+    width: 750px;
+    height: 500 px;
+    border-radius: 200px;
+    border:20px solid #55a82f;
+}
+.SmolBaby {
+    font-size: 10px;
+}
+.floatRight {
+    float:right;margin-left:1000px;
+    width: 650px;
+}
+
+h2 {
+    text-decoration: underline;
+    font-family: 'Chango', cursive;
+    color: green;
+    font-size: 44px;
+}
+.Cursed {
+    margin-top: 50px;
+    font-size: 20px;
+}
+.About{
+    margin-left: 30px;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 30px;
+    color: #807209;
+}
+ol {
+    white-space:nowrap;
+}
+h3 {
+    margin-left: 30px;
+    font-family: 'Chango', cursive;
+    color:#00d100;
+    font-size: 35px;
+}
+li{
+    margin-left: 30px;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 30px;
+    color: #807209;
+}
+footer {
+    background-color: #807209;
+    text-align: center;
+    color: orange;
+    padding: 50px;
+    box-shadow: 0 3px 10px 3px brown;
+}
+
+a {
+    font-size: 18px;
+    color:tomato;
+    text-decoration: none;
+}
+a:hover {
+    color:maroon;
+}
