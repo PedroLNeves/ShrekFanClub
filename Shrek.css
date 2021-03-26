@@ -1,6 +1,7 @@
+
 body {
     background-color: #d7ffa3;
-    margin:40px;
+    margin:0px;
     margin-right: 40px;
 }
 header {
@@ -24,7 +25,11 @@ header {
     float:right;margin-left:1000px;
     width: 650px;
 }
-
+.SHfloatRight {
+    float:right;margin-left:1000px;
+    margin-right:300px;
+    width: 250px;
+}
 h2 {
     text-decoration: underline;
     font-family: 'Chango', cursive;
@@ -41,9 +46,13 @@ h2 {
     font-size: 30px;
     color: #807209;
 }
+ul {
+    white-space:nowrap;
+}
 ol {
     white-space:nowrap;
 }
+
 h3 {
     margin-left: 30px;
     font-family: 'Chango', cursive;
